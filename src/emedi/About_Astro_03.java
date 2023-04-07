@@ -9,10 +9,10 @@ package emedi;
  *
  * @author sria
  */
-public class About_Astro_03 extends javax.swing.JFrame {
+public class About_Sam medical hall_03 extends javax.swing.JFrame {
 
     /**
-     * Creates new form About_Astro_03
+     * Creates new form About_Sam Medical hall_03
      */
     public About_Astro_03() {
         initComponents();
@@ -117,7 +117,7 @@ public class About_Astro_03 extends javax.swing.JFrame {
         java.awt.EventQueue.invokeLater(new Runnable() {
             @Override
             public void run() {
-                new About_Astro_03().setVisible(true);
+                new About_Sam medical hall_03().setVisible(true);
             }
         });
     }
